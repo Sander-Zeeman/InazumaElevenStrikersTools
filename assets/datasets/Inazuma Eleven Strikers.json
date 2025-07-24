@@ -1,0 +1,1192 @@
+{
+    "players": [
+        {
+            "index": "1",
+            "team": "Raimon",
+            "position": "GK",
+            "name": "Mark Evans"
+        },
+        {
+            "index": "2",
+            "team": "Raimon",
+            "position": "DF",
+            "name": "Nathan Swift"
+        },
+        {
+            "index": "3",
+            "team": "Raimon",
+            "position": "DF",
+            "name": "Jack Wallside"
+        },
+        {
+            "index": "4",
+            "team": "Raimon",
+            "position": "DF",
+            "name": "Jim Wraith"
+        },
+        {
+            "index": "5",
+            "team": "Raimon",
+            "position": "DF",
+            "name": "Tod Ironside"
+        },
+        {
+            "index": "6",
+            "team": "Raimon",
+            "position": "DF",
+            "name": "Bobby Shearer"
+        },
+        {
+            "index": "7",
+            "team": "Raimon",
+            "position": "MF",
+            "name": "Steve Grim"
+        },
+        {
+            "index": "8",
+            "team": "Raimon",
+            "position": "MF",
+            "name": "Tim Saunders"
+        },
+        {
+            "index": "9",
+            "team": "Raimon",
+            "position": "MF",
+            "name": "Sam Kincaid"
+        },
+        {
+            "index": "10",
+            "team": "Raimon",
+            "position": "MF",
+            "name": "Jude Sharp"
+        },
+        {
+            "index": "11",
+            "team": "Raimon",
+            "position": "MF",
+            "name": "Erik Eagle"
+        },
+        {
+            "index": "12",
+            "team": "Raimon",
+            "position": "FW",
+            "name": "Maxwell Carson"
+        },
+        {
+            "index": "13",
+            "team": "Raimon",
+            "position": "FW",
+            "name": "Axel Blaze"
+        },
+        {
+            "index": "14",
+            "team": "Raimon",
+            "position": "FW",
+            "name": "Kevin Dragonfly"
+        },
+        {
+            "index": "15",
+            "team": "Raimon",
+            "position": "FW",
+            "name": "Willy Glass"
+        },
+        {
+            "index": "1",
+            "team": "Royal Academy",
+            "position": "GK",
+            "name": "Joseph King"
+        },
+        {
+            "index": "2",
+            "team": "Royal Academy",
+            "position": "DF",
+            "name": "Peter Drent"
+        },
+        {
+            "index": "3",
+            "team": "Royal Academy",
+            "position": "DF",
+            "name": "Ben Simmons"
+        },
+        {
+            "index": "4",
+            "team": "Royal Academy",
+            "position": "DF",
+            "name": "Gus Martin"
+        },
+        {
+            "index": "5",
+            "team": "Royal Academy",
+            "position": "MF",
+            "name": "Alan Master"
+        },
+        {
+            "index": "6",
+            "team": "Royal Academy",
+            "position": "MF",
+            "name": "Herman Waldon"
+        },
+        {
+            "index": "7",
+            "team": "Royal Academy",
+            "position": "MF",
+            "name": "John Bloom"
+        },
+        {
+            "index": "8",
+            "team": "Royal Academy",
+            "position": "MF",
+            "name": "Derek Swing"
+        },
+        {
+            "index": "9",
+            "team": "Royal Academy",
+            "position": "MF",
+            "name": "Jude Sharp"
+        },
+        {
+            "index": "10",
+            "team": "Royal Academy",
+            "position": "FW",
+            "name": "Daniel Hatch"
+        },
+        {
+            "index": "11",
+            "team": "Royal Academy",
+            "position": "FW",
+            "name": "David Samford"
+        },
+        {
+            "index": "1",
+            "team": "Zeus",
+            "position": "GK",
+            "name": "Paul Siddon"
+        },
+        {
+            "index": "2",
+            "team": "Zeus",
+            "position": "DF",
+            "name": "Apollo Light"
+        },
+        {
+            "index": "3",
+            "team": "Zeus",
+            "position": "DF",
+            "name": "Jeff Iron"
+        },
+        {
+            "index": "4",
+            "team": "Zeus",
+            "position": "DF",
+            "name": "Lane War"
+        },
+        {
+            "index": "5",
+            "team": "Zeus",
+            "position": "DF",
+            "name": "Danny Wood"
+        },
+        {
+            "index": "6",
+            "team": "Zeus",
+            "position": "MF",
+            "name": "Artie Mishman"
+        },
+        {
+            "index": "7",
+            "team": "Zeus",
+            "position": "MF",
+            "name": "Arion Matlock"
+        },
+        {
+            "index": "8",
+            "team": "Zeus",
+            "position": "MF",
+            "name": "Wesley Knox"
+        },
+        {
+            "index": "9",
+            "team": "Zeus",
+            "position": "MF",
+            "name": "Byron Love"
+        },
+        {
+            "index": "10",
+            "team": "Zeus",
+            "position": "MF",
+            "name": "Henry House"
+        },
+        {
+            "index": "11",
+            "team": "Zeus",
+            "position": "FW",
+            "name": "Jonas Demetrius"
+        },
+        {
+            "index": "1",
+            "team": "Raimon II",
+            "position": "GK",
+            "name": "Darren LaChance"
+        },
+        {
+            "index": "2",
+            "team": "Raimon II",
+            "position": "GK",
+            "name": "Mark Evans"
+        },
+        {
+            "index": "3",
+            "team": "Raimon II",
+            "position": "DF",
+            "name": "Jack Wallside"
+        },
+        {
+            "index": "4",
+            "team": "Raimon II",
+            "position": "DF",
+            "name": "Hurley Kane"
+        },
+        {
+            "index": "5",
+            "team": "Raimon II",
+            "position": "DF",
+            "name": "Scott Banyan"
+        },
+        {
+            "index": "6",
+            "team": "Raimon II",
+            "position": "DF",
+            "name": "Shawn Froste"
+        },
+        {
+            "index": "7",
+            "team": "Raimon II",
+            "position": "DF",
+            "name": "Bobby Shearer"
+        },
+        {
+            "index": "8",
+            "team": "Raimon II",
+            "position": "MF",
+            "name": "Victoria Vanguard"
+        },
+        {
+            "index": "9",
+            "team": "Raimon II",
+            "position": "MF",
+            "name": "Jude Sharp"
+        },
+        {
+            "index": "10",
+            "team": "Raimon II",
+            "position": "MF",
+            "name": "Erik Eagle"
+        },
+        {
+            "index": "11",
+            "team": "Raimon II",
+            "position": "FW",
+            "name": "Suzette Hartland"
+        },
+        {
+            "index": "12",
+            "team": "Raimon II",
+            "position": "FW",
+            "name": "Aiden Froste"
+        },
+        {
+            "index": "13",
+            "team": "Raimon II",
+            "position": "FW",
+            "name": "Axel Blaze"
+        },
+        {
+            "index": "14",
+            "team": "Raimon II",
+            "position": "FW",
+            "name": "Willy Glass"
+        },
+        {
+            "index": "1",
+            "team": "Chaos",
+            "position": "GK",
+            "name": "Grant Cook"
+        },
+        {
+            "index": "2",
+            "team": "Chaos",
+            "position": "DF",
+            "name": "Bonnie Sparks"
+        },
+        {
+            "index": "3",
+            "team": "Chaos",
+            "position": "DF",
+            "name": "Claire Lesnow"
+        },
+        {
+            "index": "4",
+            "team": "Chaos",
+            "position": "DF",
+            "name": "Albert Denver"
+        },
+        {
+            "index": "5",
+            "team": "Chaos",
+            "position": "MF",
+            "name": "Ben Blowton"
+        },
+        {
+            "index": "6",
+            "team": "Chaos",
+            "position": "MF",
+            "name": "Ethan Whitering"
+        },
+        {
+            "index": "7",
+            "team": "Chaos",
+            "position": "MF",
+            "name": "Dawson Foxx"
+        },
+        {
+            "index": "8",
+            "team": "Chaos",
+            "position": "MF",
+            "name": "Ving Rice"
+        },
+        {
+            "index": "9",
+            "team": "Chaos",
+            "position": "FW",
+            "name": "Bryce Whitingale"
+        },
+        {
+            "index": "10",
+            "team": "Chaos",
+            "position": "FW",
+            "name": "Claude Beacons"
+        },
+        {
+            "index": "11",
+            "team": "Chaos",
+            "position": "FW",
+            "name": "Nigel August"
+        },
+        {
+            "index": "1",
+            "team": "Alius Academy",
+            "position": "GK",
+            "name": "Dvalin"
+        },
+        {
+            "index": "2",
+            "team": "Alius Academy",
+            "position": "GK",
+            "name": "Nelson Rockwell"
+        },
+        {
+            "index": "3",
+            "team": "Alius Academy",
+            "position": "DF",
+            "name": "Alan Downhill"
+        },
+        {
+            "index": "4",
+            "team": "Alius Academy",
+            "position": "DF",
+            "name": "Grant Icewater"
+        },
+        {
+            "index": "5",
+            "team": "Alius Academy",
+            "position": "DF",
+            "name": "Kim Powell"
+        },
+        {
+            "index": "6",
+            "team": "Alius Academy",
+            "position": "MF",
+            "name": "Lucy Hailstone"
+        },
+        {
+            "index": "7",
+            "team": "Alius Academy",
+            "position": "MF",
+            "name": "Karen Ripton"
+        },
+        {
+            "index": "8",
+            "team": "Alius Academy",
+            "position": "MF",
+            "name": "Janus"
+        },
+        {
+            "index": "9",
+            "team": "Alius Academy",
+            "position": "MF",
+            "name": "Isabelle Trick"
+        },
+        {
+            "index": "10",
+            "team": "Alius Academy",
+            "position": "MF",
+            "name": "Pat Box"
+        },
+        {
+            "index": "11",
+            "team": "Alius Academy",
+            "position": "MF",
+            "name": "Katie Brown"
+        },
+        {
+            "index": "12",
+            "team": "Alius Academy",
+            "position": "FW",
+            "name": "Ronny Metcalf"
+        },
+        {
+            "index": "13",
+            "team": "Alius Academy",
+            "position": "FW",
+            "name": "Carrie McCuring"
+        },
+        {
+            "index": "14",
+            "team": "Alius Academy",
+            "position": "FW",
+            "name": "Xene"
+        },
+        {
+            "index": "15",
+            "team": "Alius Academy",
+            "position": "FW",
+            "name": "Rhona Countdown"
+        },
+        {
+            "index": "16",
+            "team": "Alius Academy",
+            "position": "FW",
+            "name": "Dylan Bluemoon"
+        },
+        {
+            "index": "1",
+            "team": "Dark Emperors",
+            "position": "GK",
+            "name": "Thomas Feldt"
+        },
+        {
+            "index": "2",
+            "team": "Dark Emperors",
+            "position": "DF",
+            "name": "Malcolm Night"
+        },
+        {
+            "index": "3",
+            "team": "Dark Emperors",
+            "position": "DF",
+            "name": "Jim Wraith"
+        },
+        {
+            "index": "4",
+            "team": "Dark Emperors",
+            "position": "MF",
+            "name": "Tod Ironside"
+        },
+        {
+            "index": "5",
+            "team": "Dark Emperors",
+            "position": "MF",
+            "name": "Steve Grim"
+        },
+        {
+            "index": "6",
+            "team": "Dark Emperors",
+            "position": "MF",
+            "name": "Tim Saunders"
+        },
+        {
+            "index": "7",
+            "team": "Dark Emperors",
+            "position": "MF",
+            "name": "Sam Kincaid"
+        },
+        {
+            "index": "8",
+            "team": "Dark Emperors",
+            "position": "MF",
+            "name": "Shadow Cimmerian"
+        },
+        {
+            "index": "9",
+            "team": "Dark Emperors",
+            "position": "FW",
+            "name": "Maxwell Carson"
+        },
+        {
+            "index": "10",
+            "team": "Dark Emperors",
+            "position": "FW",
+            "name": "Nathan Swift"
+        },
+        {
+            "index": "11",
+            "team": "Dark Emperors",
+            "position": "FW",
+            "name": "Kevin Dragonfly"
+        },
+        {
+            "index": "1",
+            "team": "Inazuma National",
+            "position": "GK",
+            "name": "Mark Evans"
+        },
+        {
+            "index": "2",
+            "team": "Inazuma National",
+            "position": "GK",
+            "name": "Darren LaChance"
+        },
+        {
+            "index": "3",
+            "team": "Inazuma National",
+            "position": "DF",
+            "name": "Nathan Swift"
+        },
+        {
+            "index": "4",
+            "team": "Inazuma National",
+            "position": "DF",
+            "name": "Jack Wallside"
+        },
+        {
+            "index": "5",
+            "team": "Inazuma National",
+            "position": "DF",
+            "name": "Hurley Kane"
+        },
+        {
+            "index": "6",
+            "team": "Inazuma National",
+            "position": "DF",
+            "name": "Scott Banyan"
+        },
+        {
+            "index": "7",
+            "team": "Inazuma National",
+            "position": "DF",
+            "name": "Archer Hawkins"
+        },
+        {
+            "index": "8",
+            "team": "Inazuma National",
+            "position": "MF",
+            "name": "Caleb Stonewall"
+        },
+        {
+            "index": "9",
+            "team": "Inazuma National",
+            "position": "MF",
+            "name": "Thor Stoutberg"
+        },
+        {
+            "index": "10",
+            "team": "Inazuma National",
+            "position": "MF",
+            "name": "Jude Sharp"
+        },
+        {
+            "index": "11",
+            "team": "Inazuma National",
+            "position": "FW",
+            "name": "Shawn Froste"
+        },
+        {
+            "index": "12",
+            "team": "Inazuma National",
+            "position": "FW",
+            "name": "Axel Blaze"
+        },
+        {
+            "index": "13",
+            "team": "Inazuma National",
+            "position": "FW",
+            "name": "Austin Hobbes"
+        },
+        {
+            "index": "14",
+            "team": "Inazuma National",
+            "position": "FW",
+            "name": "David Samford"
+        },
+        {
+            "index": "15",
+            "team": "Inazuma National",
+            "position": "FW",
+            "name": "Kevin Dragonfly"
+        },
+        {
+            "index": "16",
+            "team": "Inazuma National",
+            "position": "FW",
+            "name": "Xavier Foster"
+        },
+        {
+            "index": "17",
+            "team": "Inazuma National",
+            "position": "DF",
+            "name": "Tod Ironside"
+        },
+        {
+            "index": "18",
+            "team": "Inazuma National",
+            "position": "MF",
+            "name": "Jordan Greenway"
+        },
+        {
+            "index": "1",
+            "team": "Neo National",
+            "position": "GK",
+            "name": "Joseph King"
+        },
+        {
+            "index": "2",
+            "team": "Neo National",
+            "position": "DF",
+            "name": "Zack Cummings"
+        },
+        {
+            "index": "3",
+            "team": "Neo National",
+            "position": "DF",
+            "name": "Argie Bargie"
+        },
+        {
+            "index": "4",
+            "team": "Neo National",
+            "position": "DF",
+            "name": "Mark Hillvalley"
+        },
+        {
+            "index": "5",
+            "team": "Neo National",
+            "position": "DF",
+            "name": "Alan Master"
+        },
+        {
+            "index": "6",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Johan Tassman"
+        },
+        {
+            "index": "7",
+            "team": "Neo National",
+            "position": "MF",
+            "name": "Ethan Whitering"
+        },
+        {
+            "index": "8",
+            "team": "Neo National",
+            "position": "MF",
+            "name": "Henry House"
+        },
+        {
+            "index": "9",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Daniel Hatch"
+        },
+        {
+            "index": "10",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Neil Turner"
+        },
+        {
+            "index": "11",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Sail Bluesea"
+        },
+        {
+            "index": "12",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Wilbur Watkins"
+        },
+        {
+            "index": "13",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Dave Quagmire"
+        },
+        {
+            "index": "14",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Zeke Valanche"
+        },
+        {
+            "index": "15",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Tyler Murdock"
+        },
+        {
+            "index": "16",
+            "team": "Neo National",
+            "position": "FW",
+            "name": "Jonas Demetrius"
+        },
+        {
+            "index": "1",
+            "team": "International Allstars Remastered",
+            "position": "GK",
+            "name": "Hector Helio"
+        },
+        {
+            "index": "2",
+            "team": "International Allstars Remastered",
+            "position": "GK",
+            "name": "Gigi Blasi"
+        },
+        {
+            "index": "3",
+            "team": "International Allstars Remastered",
+            "position": "DF",
+            "name": "Thiago Torres"
+        },
+        {
+            "index": "4",
+            "team": "International Allstars Remastered",
+            "position": "DF",
+            "name": "Bilal Kalil"
+        },
+        {
+            "index": "5",
+            "team": "International Allstars Remastered",
+            "position": "DF",
+            "name": "Walte Mountain"
+        },
+        {
+            "index": "6",
+            "team": "International Allstars Remastered",
+            "position": "DF",
+            "name": "Bobby Shearer"
+        },
+        {
+            "index": "7",
+            "team": "International Allstars Remastered",
+            "position": "DF",
+            "name": "Carlos Lagarto"
+        },
+        {
+            "index": "8",
+            "team": "International Allstars Remastered",
+            "position": "MF",
+            "name": "Changsu Choi"
+        },
+        {
+            "index": "9",
+            "team": "International Allstars Remastered",
+            "position": "MF",
+            "name": "Erik Eagle"
+        },
+        {
+            "index": "10",
+            "team": "International Allstars Remastered",
+            "position": "MF",
+            "name": "Mark Krueger"
+        },
+        {
+            "index": "11",
+            "team": "International Allstars Remastered",
+            "position": "MF",
+            "name": "Byron Love"
+        },
+        {
+            "index": "12",
+            "team": "International Allstars Remastered",
+            "position": "MF",
+            "name": "Dolph Hensen"
+        },
+        {
+            "index": "13",
+            "team": "International Allstars Remastered",
+            "position": "FW",
+            "name": "Edgar Partinus"
+        },
+        {
+            "index": "14",
+            "team": "International Allstars Remastered",
+            "position": "FW",
+            "name": "Paolo Bianchi"
+        },
+        {
+            "index": "15",
+            "team": "International Allstars Remastered",
+            "position": "FW",
+            "name": "Mac Robingo"
+        },
+        {
+            "index": "16",
+            "team": "International Allstars Remastered",
+            "position": "FW",
+            "name": "Dylan Keats"
+        },
+        {
+            "index": "1",
+            "team": "Dark Angels",
+            "position": "GK",
+            "name": "Astaroth"
+        },
+        {
+            "index": "2",
+            "team": "Dark Angels",
+            "position": "DF",
+            "name": "Behemoth"
+        },
+        {
+            "index": "3",
+            "team": "Dark Angels",
+            "position": "DF",
+            "name": "Bael"
+        },
+        {
+            "index": "4",
+            "team": "Dark Angels",
+            "position": "DF",
+            "name": "Nenel"
+        },
+        {
+            "index": "5",
+            "team": "Dark Angels",
+            "position": "DF",
+            "name": "Lephiel"
+        },
+        {
+            "index": "6",
+            "team": "Dark Angels",
+            "position": "MF",
+            "name": "Malphas"
+        },
+        {
+            "index": "7",
+            "team": "Dark Angels",
+            "position": "MF",
+            "name": "Wenel"
+        },
+        {
+            "index": "8",
+            "team": "Dark Angels",
+            "position": "FW",
+            "name": "Thanatos"
+        },
+        {
+            "index": "9",
+            "team": "Dark Angels",
+            "position": "FW",
+            "name": "Gaiel"
+        },
+        {
+            "index": "10",
+            "team": "Dark Angels",
+            "position": "FW",
+            "name": "Destra"
+        },
+        {
+            "index": "11",
+            "team": "Dark Angels",
+            "position": "FW",
+            "name": "Sanctus"
+        },
+        {
+            "index": "1",
+            "team": "Team Ogre",
+            "position": "GK",
+            "name": "Lars Luceafăr"
+        },
+        {
+            "index": "2",
+            "team": "Team Ogre",
+            "position": "DF",
+            "name": "Lump Trungus"
+        },
+        {
+            "index": "3",
+            "team": "Team Ogre",
+            "position": "DF",
+            "name": "Bump Trungus"
+        },
+        {
+            "index": "4",
+            "team": "Team Ogre",
+            "position": "DF",
+            "name": "Radd Ischer"
+        },
+        {
+            "index": "5",
+            "team": "Team Ogre",
+            "position": "DF",
+            "name": "Jynx Jenkins"
+        },
+        {
+            "index": "6",
+            "team": "Team Ogre",
+            "position": "MF",
+            "name": "Oni Triumvir"
+        },
+        {
+            "index": "7",
+            "team": "Team Ogre",
+            "position": "MF",
+            "name": "Drachen Gunther"
+        },
+        {
+            "index": "8",
+            "team": "Team Ogre",
+            "position": "MF",
+            "name": "Ichabod Stark"
+        },
+        {
+            "index": "9",
+            "team": "Team Ogre",
+            "position": "FW",
+            "name": "Escavan Malice"
+        },
+        {
+            "index": "10",
+            "team": "Team Ogre",
+            "position": "FW",
+            "name": "Bash Lancer"
+        },
+        {
+            "index": "11",
+            "team": "Team Ogre",
+            "position": "FW",
+            "name": "Mystral Callous"
+        },
+        {
+            "index": "1",
+            "team": "Girls Team",
+            "position": "GK",
+            "name": "Silvia Woods"
+        },
+        {
+            "index": "2",
+            "team": "Girls Team",
+            "position": "GK",
+            "name": "Daisy Fields"
+        },
+        {
+            "index": "3",
+            "team": "Girls Team",
+            "position": "DF",
+            "name": "Joaquine Downtown"
+        },
+        {
+            "index": "4",
+            "team": "Girls Team",
+            "position": "DF",
+            "name": "Hellen Hearth"
+        },
+        {
+            "index": "5",
+            "team": "Girls Team",
+            "position": "DF",
+            "name": "Camellia Travis"
+        },
+        {
+            "index": "6",
+            "team": "Girls Team",
+            "position": "DF",
+            "name": "Esther Greenland"
+        },
+        {
+            "index": "7",
+            "team": "Girls Team",
+            "position": "MF",
+            "name": "Bela Bluebells"
+        },
+        {
+            "index": "8",
+            "team": "Girls Team",
+            "position": "DF",
+            "name": "Alexia Sand"
+        },
+        {
+            "index": "9",
+            "team": "Girls Team",
+            "position": "MF",
+            "name": "Marge Fielding"
+        },
+        {
+            "index": "10",
+            "team": "Girls Team",
+            "position": "MF",
+            "name": "Sue Sparrow"
+        },
+        {
+            "index": "11",
+            "team": "Girls Team",
+            "position": "MF",
+            "name": "Dora Delight"
+        },
+        {
+            "index": "12",
+            "team": "Girls Team",
+            "position": "MF",
+            "name": "Celia Hills"
+        },
+        {
+            "index": "13",
+            "team": "Girls Team",
+            "position": "MF",
+            "name": "Kerry Bootgaiter"
+        },
+        {
+            "index": "14",
+            "team": "Girls Team",
+            "position": "FW",
+            "name": "Millie Moonlight"
+        },
+        {
+            "index": "15",
+            "team": "Girls Team",
+            "position": "FW",
+            "name": "Nelly Raimon"
+        },
+        {
+            "index": "16",
+            "team": "Girls Team",
+            "position": "FW",
+            "name": "Lilly Willow"
+        },
+        {
+            "index": "1",
+            "team": "Secret 1",
+            "position": "FW",
+            "name": "Shadow Cimmerian"
+        },
+        {
+            "index": "2",
+            "team": "Secret 1",
+            "position": "GK",
+            "name": "Thomas Feldt"
+        },
+        {
+            "index": "3",
+            "team": "Secret 1",
+            "position": "DF",
+            "name": "Malcolm Night"
+        },
+        {
+            "index": "4",
+            "team": "Secret 1",
+            "position": "DF",
+            "name": "Miles Ryan"
+        },
+        {
+            "index": "5",
+            "team": "Secret 1",
+            "position": "MF",
+            "name": "Cadence Soundtown"
+        },
+        {
+            "index": "6",
+            "team": "Secret 1",
+            "position": "GK",
+            "name": "Joseph King"
+        },
+        {
+            "index": "7",
+            "team": "Secret 1",
+            "position": "MF",
+            "name": "Caleb Stonewall"
+        },
+        {
+            "index": "8",
+            "team": "Secret 1",
+            "position": "FW",
+            "name": "David Samford"
+        },
+        {
+            "index": "9",
+            "team": "Secret 1",
+            "position": "FW",
+            "name": "Claude Beacons"
+        },
+        {
+            "index": "10",
+            "team": "Secret 1",
+            "position": "FW",
+            "name": "Bryce Whitingale"
+        },
+        {
+            "index": "11",
+            "team": "Secret 1",
+            "position": "MF",
+            "name": "Giulio Acuto"
+        },
+        {
+            "index": "12",
+            "team": "Secret 1",
+            "position": "DF",
+            "name": "Phil A. Minion"
+        },
+        {
+            "index": "13",
+            "team": "Secret 1",
+            "position": "FW",
+            "name": "Syon Blaze"
+        },
+        {
+            "index": "14",
+            "team": "Secret 1",
+            "position": "DF",
+            "name": "Paul Peabody"
+        },
+        {
+            "index": "15",
+            "team": "Secret 1",
+            "position": "GK",
+            "name": "Karl Kappa"
+        },
+        {
+            "index": "16",
+            "team": "Secret 1",
+            "position": "FW",
+            "name": "Canon Evans"
+        },
+        {
+            "index": "1",
+            "team": "Secret 2",
+            "position": "MF",
+            "name": "Arion Sherwind"
+        },
+        {
+            "index": "2",
+            "team": "Secret 2",
+            "position": "MF",
+            "name": "Riccardo Di Rigo"
+        },
+        {
+            "index": "3",
+            "team": "Secret 2",
+            "position": "FW",
+            "name": "Victor Blade"
+        },
+        {
+            "index": "4",
+            "team": "Secret 2",
+            "position": "DF",
+            "name": "Gabriel Garcia"
+        },
+        {
+            "index": "5",
+            "team": "Secret 2",
+            "position": "DF",
+            "name": "Jean-Pierre Lapin"
+        }
+    ]
+}
