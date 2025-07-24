@@ -37,7 +37,7 @@ function fillDatasetOptions() {
     let lOption = document.createElement("option")
     let lInnerText = document.createTextNode(lFileName)
     lOption.appendChild(lInnerText)
-    lOption.value = "assets\\datasets\\" + lFileName + ".json"
+    lOption.value = "/InazumaElevenStrikersTools/assets/datasets/" + lFileName + ".json"
     cDatasetSelection.appendChild(lOption)
   }
 }

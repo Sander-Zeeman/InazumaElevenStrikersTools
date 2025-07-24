@@ -22,7 +22,7 @@ function load(iPath, iGroupBy) {
           Team: iPlayer.team,
           Position: iPlayer.position,
           Number: iPlayer.index,
-          Emblem: "assets/images/" + iPlayer.team.replaceAll(" ", "_") + ".png"
+          Emblem: "/InazumaElevenStrikersTools/assets/images/" + iPlayer.team.replaceAll(" ", "_") + ".png"
         })
       }
       return lMap
